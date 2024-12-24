@@ -1,5 +1,5 @@
 # 💫 About Me: Ajegbomogun Opeyemi
-💻 Full-Stack Proficiency: Skilled in full-stack, backend, and mobile app development.<br>🚀 Tech Stack Mastery: Expert in Typescript, JavaScript, Python, Go, C++, Java,  React, Flutter, and more.<br>🏦 Fintech Expertise: Designed and deployed robust payment platforms using Java, C++, Go, and AWS.<br>📊 AI Innovator: Built predictive algorithms  for agriculture, stocks and AI applications.<br>🔄 Real-Time Solutions: Integrated real-time updates with Socket.IO and FCM notifications.<br>👨‍💻 Leadership: Co-founder of Finham Technologies, spearheading cutting-edge tech initiatives.<br>☁️ Cloud Deployments: Deployed scalable systems on AWS, GCP, and Azure.<br>🛠️ Modern Tools: Proficient in FastAPI, Tailwind, Next.js, and CI/CD workflows.<br>🌍 Impact-Driven: Developed solutions impacting fintech, healthcare, and beyond.
+
 
 
 ## 🌐 Socials:
