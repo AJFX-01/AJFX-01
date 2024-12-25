@@ -1,6 +1,9 @@
 # 💫 About Me: Ajegbomogun Opeyemi
 
-
+🎓 Mechanical to Software Engineering: Transitioned from Mechanical Engineering to an accomplished Software Engineer.
+💻 Full-Stack Proficiency: Skilled in full-stack, backend, and mobile app development.
+🚀 Tech Stack Mastery: Expert in Typescript, JavaScript, Python, Go, C++, Java, React, Flutter, and more.
+🏦 Fintech Expertise: Designed and deployed robust payment platforms using Java, C++, Go, and AWS.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ajfx_01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ajegbomogun-opeyemi/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ajfx_1) 
