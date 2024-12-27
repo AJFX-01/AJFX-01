@@ -6,13 +6,14 @@ A versatile software engineer with a knack for solving complex problems and buil
 Known for adapting quickly, mastering diverse challenges, and leading impactful projects to success.  
 From ideation to deployment, I deliver results with precision, creativity, and efficiency.  
 
-- 🛠️ **Jack of all trades—and master of most** (humility? Maybe later!).  
-- 🏗️ **Built core system architectures** that just work—no matter how big the challenge.  
-- 🎯 **System design engineering?** It’s my playground, and I don’t just play; I win.  
-- 🌍 **Open-source contributor** who loves giving back to the tech community (and leaving my mark in commit histories).  
-- 🚨 When servers misbehave, I teach them manners without breaking a sweat.  
-- ⏰ **Deadlines don’t scare me**, but code reviews without coffee? Terrifying.  
-- ✨ **Clean code is my mantra,** but my desk is an organized chaos zone. 
+- 🛠️ **Jack of all trades—and master of most**.
+- 🛠️ **Skilled in designing and implementing robust core system architectures**.  
+- 🏗️ **Experienced in system design engineering for high-impact projects**.  
+- 🌍 **Active open-source contributor, dedicated to giving back to the tech community**.  
+- 🚀 **Proven track record in delivering efficient, scalable, and maintainable solutions**.  
+- ✨ **Committed to creating clean, effective code that stands the test of time**.  
+- 🌍 **Open-source contributor** who loves giving back to the tech community (and leaving my mark in commit histories)**.   
+- ✨ **Clean code is my mantra,** but my desk is an organized chaos zone**. 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ajfx_01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajegbomogun-opeyemi/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ajfx_1) 
