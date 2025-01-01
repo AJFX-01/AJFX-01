@@ -13,7 +13,7 @@ From ideation to deployment, I deliver results with precision, creativity, and e
 - 🚀 **Proven track record in delivering efficient, scalable, and maintainable solutions**.  
 - ✨ **Committed to creating clean, effective code that stands the test of time**.  
 - 🌍 **Open-source contributor** who loves giving back to the tech community (and leaving my mark in commit histories)**.   
-- ✨ **Clean code is my mantra,** but my desk is an organized chaos zone**. 
+- ✨ **Clean code is my mantra,** but my desk organized chaos zone**. 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ajfx_01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajegbomogun-opeyemi/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ajfx_1) 
